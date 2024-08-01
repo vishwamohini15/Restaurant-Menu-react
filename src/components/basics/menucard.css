@@ -1,0 +1,87 @@
+body{
+     background-color:rgb(249, 226, 197);
+
+}
+
+.main-card{
+     height: 100vh;
+     width: 100vw;
+ display: grid;    
+ grid-template-columns: repeat(3,1fr);
+ gap: 20px;
+ padding: 45px;
+ /* margin-top: 40px; */
+}
+
+.card{
+     height: 430px;
+     width: 380px;
+     background-color: lightsalmon;
+     border-radius: 15px;
+     padding: 20px;
+     object-fit: cover;
+     object-position: center;
+}
+
+.card-body{
+     padding: 10px;
+     color: white;
+}
+
+.card-number{
+     border: 2px solid blueviolet;
+     /* margin: 8px; */
+     padding: 4px;
+     border-radius: 50%;
+     font: 1em sans-serif;
+}
+
+.card-author{
+     color: blue;
+     font-size: 23px;
+     margin: 12px;
+}
+
+
+.card-media{
+     width: 98%;
+     /* object-fit: cover; */
+     object-position: center;
+     height: 170px;
+}
+
+.card-tag{
+     color: blue;
+     text-align: end;
+     font-size: 20px;
+     /* width: 60px; */
+}
+
+nav{
+     height: 100px;
+     /* width: 100%; */
+   display: flex;
+     align-items: center;
+     justify-content: center;
+     background-color:rgb(221, 215, 207);
+     /* padding: 23px 0; */
+}
+.btn-group__item{
+     background-color: rgb(144, 189, 217);
+     color: white;
+     /* border: none; */
+padding: 15px;
+margin-left: 15px;
+border-radius: 18px;
+font-size: 20px;
+}
+.btn-group__item:hover{
+     background-color: rgb(4, 83, 109);
+}
+
+
+
+
+
+
+
