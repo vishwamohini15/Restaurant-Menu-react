@@ -2,7 +2,7 @@ const Menu=[
      {
      id:1,
      image:"image/breakfast 5.png",
-     name:"coffie",
+     name:"Cold-Coffee",
      category:"breakfast",
      price:25,
      description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Et esse velit, optio quod quo deserunt dolor ut explicabo vel quibusdam iure"
@@ -18,7 +18,7 @@ const Menu=[
 {
      id:3,
      image:"image/dinner 1.png",
-     name:"kadhi-panner",
+     name:"Kadai-paneer",
      category:"lunch",
      price:25,
      description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Et esse velit, optio quod quo deserunt dolor ut explicabo vel quibusdam iure"
@@ -26,7 +26,7 @@ const Menu=[
 {
      id:4,
      image:"image/dinner2.png",
-     name:"Veg-rice",
+     name:"Chawal-sabji",
      category:"dinner",
      price:25,
      description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Et esse velit, optio quod quo deserunt dolor ut explicabo vel quibusdam iure"
@@ -34,7 +34,7 @@ const Menu=[
 {
      id:5,
      image:"image/evening 1.png",
-     name:" fruits breakfast",
+     name:" Fruits",
      category:"breakfast",
      price:25,
      description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Et esse velit, optio quod quo deserunt dolor ut explicabo vel quibusdam iure"
@@ -42,7 +42,7 @@ const Menu=[
 {
      id:6,
      image:"image/evening 3.png",
-     name:" maggie",
+     name:" Nodels",
      category:"evening",
      price:25,
      description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Et esse velit, optio quod quo deserunt dolor ut explicabo vel quibusdam iure"
@@ -50,7 +50,7 @@ const Menu=[
 {
      id:7,
      image:"image/lunch 2.png",
-     name:"full-plate rice",
+     name:"Special Lunch",
      category:"dinner",
      price:25,
      description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Et esse velit, optio quod quo deserunt dolor ut explicabo vel quibusdam iure"
@@ -58,7 +58,7 @@ const Menu=[
 {
      id:8,
      image:"image/lunch 8.png",
-     name:"puri-sabji",
+     name:"Puri sabji",
      category:"lunch",
      price:25,
      description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Et esse velit, optio quod quo deserunt dolor ut explicabo vel quibusdam iure"
@@ -66,7 +66,7 @@ const Menu=[
 {
      id:9,
      image:"image/lunch 9.png",
-     name:"pasta",
+     name:"Pasta",
      category:"evening",
      price:25,
      description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Et esse velit, optio quod quo deserunt dolor ut explicabo vel quibusdam iure"
